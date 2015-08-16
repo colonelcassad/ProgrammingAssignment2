@@ -72,7 +72,7 @@ cache the inverse of a matrix.
 
 Write the following functions:
 
-1.  `makeCacheMatrix`: This function creates a special "matrix" object
+1.  `makeCacheMatrix`: This funx<ction creates a special "matrix" object
     that can cache its inverse.
 2.  `cacheSolve`: This function computes the inverse of the special
     "matrix" returned by `makeCacheMatrix` above. If the inverse has
